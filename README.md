@@ -32,3 +32,6 @@
   
  
 #### BELANGRIJK: alles moet ook duidelijk (tekstueel) worden uitgelegd)
+
+## Reference
+https://www.kaggle.com/code/russellpecar/tripadvisor-restaurant-data-cleaning-and-eda?fbclid=IwAR0ZysqEXJYYVLRlVftanWCqDt-B7gwMBxeNaJ0zNXAdpSV5lHZ2utnJw-I
