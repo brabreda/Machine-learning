@@ -43,7 +43,7 @@
 #### BELANGRIJK: alles moet ook duidelijk (tekstueel) worden uitgelegd)
 
 ## Logboek
-- 14/10 het field meals is verwerkt tot bruikbare data + cuisines is klaar om verwerkt te worden, er zijn echter wel veel categorieen, er is een boxplot opgesteld die aantoond dat veel cateogrieen niet veel voorkomen die kunnen we reduceren tot bv. '''andere'''
+- 14/10 het field meals is verwerkt tot bruikbare data + cuisines is klaar om verwerkt te worden, er zijn echter wel veel categorieen, er is een boxplot opgesteld die aantoond dat veel cateogrieen niet veel voorkomen die kunnen we reduceren tot bv. `andere`
 
 ## Reference
 https://www.kaggle.com/code/russellpecar/tripadvisor-restaurant-data-cleaning-and-eda?fbclid=IwAR0ZysqEXJYYVLRlVftanWCqDt-B7gwMBxeNaJ0zNXAdpSV5lHZ2utnJw-I
