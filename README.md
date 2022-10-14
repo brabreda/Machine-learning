@@ -27,8 +27,20 @@
 
 - Verdere uitbreidingen:
   - Heatmap die goedkope/dure restaurant regio's aantoont?
-  - ...
-  
+  - Mischien de prijsklasses anders verdelen want nu zitten bijna alle restaurants in dezelfde prijsklasse
+  - Kijk naar de gemiddelde review score per restaurant per jaar of maand
+    - Welke restaurants zijn er op vooruit gegaan?
+    - Welke restaurants zijn er op achteruit gegaan?
+  - Reviews naar nederlands vertalen vooralleer we er keywords uit gaan halen - enkel als dit performant genoeg kan want er zijn meer dan 1 mil reviews 
+  - ligt de gemiddelde score van restaurants die vegan/vegetarian friendly zijn hoger dan wanneer ze dit niet zijn? 
+  - Welke restaurant features leiden tot een hogere review score? 
+  - Welke prijsklasses zorgen voor de meeste reviews (en dus ook meer klanten vermoed ik?)
+  - Welke keukens zorgen voor de meeste reviews (en dus ook meer klanten vermoed ik?) 
+  - Welke keukens zorgen voor de beste reviews - wat eten de mensen in belgië dus het liefst?
+  - Als de menukaart van een restaurant online staat, zorgt dit er dan voor dat er meer klanten gaan eten in dat restaurant?
   
  
 #### BELANGRIJK: alles moet ook duidelijk (tekstueel) worden uitgelegd)
+
+## Reference
+https://www.kaggle.com/code/russellpecar/tripadvisor-restaurant-data-cleaning-and-eda?fbclid=IwAR0ZysqEXJYYVLRlVftanWCqDt-B7gwMBxeNaJ0zNXAdpSV5lHZ2utnJw-I
