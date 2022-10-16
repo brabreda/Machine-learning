@@ -27,7 +27,7 @@
 
 - Verdere uitbreidingen:
   - Heatmap die goedkope/dure restaurant regio's aantoont?
-  - Mischien de prijsklasses anders verdelen want nu zitten bijna alle restaurants in dezelfde prijsklasse
+  - Mischien de prijsklasses anders verdelen want nu zitten bijna alle restaurants in dezelfde prijsklasse - eventueel via 'tags' kolom met de dollartekens, dis is ook vaker ingevuld
   - Kijk naar de gemiddelde review score per restaurant per jaar of maand
     - Welke restaurants zijn er op vooruit gegaan?
     - Welke restaurants zijn er op achteruit gegaan?
@@ -40,10 +40,11 @@
   - Als de menukaart van een restaurant online staat, zorgt dit er dan voor dat er meer klanten gaan eten in dat restaurant?
   
  
-#### BELANGRIJK: alles moet ook duidelijk (tekstueel) worden uitgelegd)
+#### BELANGRIJK: alles moet ook duidelijk (tekstueel) worden uitgelegd
 
 ## Logboek
 - 14/10 het field meals is verwerkt tot bruikbare data + cuisines is klaar om verwerkt te worden, er zijn echter wel veel categorieen, er is een boxplot opgesteld die aantoond dat veel cateogrieen niet veel voorkomen die kunnen we reduceren tot bv. `andere`
+- 15/10 restaurant features voorgesteld, special diets data voorgesteld
 
 ## Reference
 https://www.kaggle.com/code/russellpecar/tripadvisor-restaurant-data-cleaning-and-eda?fbclid=IwAR0ZysqEXJYYVLRlVftanWCqDt-B7gwMBxeNaJ0zNXAdpSV5lHZ2utnJw-I
