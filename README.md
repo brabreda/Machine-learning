@@ -48,3 +48,4 @@
 
 ## Reference
 https://www.kaggle.com/code/russellpecar/tripadvisor-restaurant-data-cleaning-and-eda?fbclid=IwAR0ZysqEXJYYVLRlVftanWCqDt-B7gwMBxeNaJ0zNXAdpSV5lHZ2utnJw-I
+https://blog.jovian.ai/analyzing-1-million-european-restaurants-from-tripadvisor-9ef5d1b690a2
