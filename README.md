@@ -1,8 +1,33 @@
 # Machinaal Leren: Project 
 ### (Bram Breda - Maxime Van Hees - Ewoud Allart)
 
-## Ideeën / TODO's :
+## Formatten van de features
+- [x] rank
+- [x] restaurant name : DELETED
+- [x] general rating
+- [x] number of reviews
+- [ ] tags
+- [ ] address
+- [ ] phone number
+- [x] website url
+- [x] menu url
+- [ ] timetable	
+- [ ] email address
+- [ ] travelers choice
+- [ ] michelin
+- [x] food rating	
+- [x] service rating	
+- [x] value rating	
+- [x] atmosphere rating	
+- [ ] description
+- [ ] dutch description	
+- [x] price range
+- [x] cuisines
+- [x] special diets
+- [x] meals	
+- [x] restaurant features	
 
+## Ideeën / TODO's :
 * Volledige cleanening van de dataset
   - Wat doen met outliers?
   - Zelf features aanpassen? 
