@@ -11,10 +11,10 @@
 - [ ] phone number
 - [x] website url
 - [x] menu url
-- [ ] timetable	
+- [x] timetable	
 - [ ] email address
-- [ ] travelers choice
-- [ ] michelin
+- [x] travelers choice
+- [x] michelin
 - [x] food rating	
 - [x] service rating	
 - [x] value rating	
