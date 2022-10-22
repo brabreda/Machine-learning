@@ -7,7 +7,7 @@
 - [x] general rating
 - [x] number of reviews
 - [ ] tags
-- [ ] address
+- [x] address
 - [ ] phone number
 - [x] website url
 - [x] menu url
