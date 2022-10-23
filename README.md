@@ -61,7 +61,7 @@
   - Welke restaurant features leiden tot een hogere review score? 
   - Welke prijsklasses zorgen voor de meeste reviews (en dus ook meer klanten vermoed ik?)
   - Welke keukens zorgen voor de meeste reviews (en dus ook meer klanten vermoed ik?) 
-  - Welke keukens zorgen voor de beste reviews - wat eten de mensen in belgië dus het liefst?
+  - Welke keukens zorgen voor de beste scores - wat eten de mensen in belgië dus het liefst?
   - Als de menukaart van een restaurant online staat, zorgt dit er dan voor dat er meer klanten gaan eten in dat restaurant?
   
  
