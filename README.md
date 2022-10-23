@@ -6,15 +6,15 @@
 - [x] restaurant name : DELETED
 - [x] general rating
 - [x] number of reviews
-- [ ] tags
+- [x] tags
 - [x] address
-- [ ] phone number
+- [x] phone number
 - [x] website url
 - [x] menu url
-- [ ] timetable	
-- [ ] email address
-- [ ] travelers choice
-- [ ] michelin
+- [x] timetable	
+- [x] email address
+- [x] travelers choice
+- [x] michelin
 - [x] food rating	
 - [x] service rating	
 - [x] value rating	
